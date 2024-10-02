@@ -1,0 +1,27 @@
+Problem 1. 
+(Day of the Week) Write a program called day_of_week.py that accepts m (int), d (int), and y (int) as command- line arguments, representing a date, and writes 
+the day of the week (0 for Sunday, 1 for Monday, and so on) dow to standard output, computed as
+
+y0 = y−(14−m)/12,
+x0 = y0 + y0/4 − y0/100 + y0/400, 
+m0 = m+12×((14−m)/12)−2,
+dow = (d+x0 +31×m0/12)mod7.
+
+Directions:
+- Accept three integers m, d, and y as command-line arguments.  
+- Compute and write the value of day of the week dow.
+- Use // (floored division) for / and % for mod.
+
+Problem 2. 
+(Mercator Projection) The Mercator projection is a conformal (angle preserving) projection that maps latitude φ and longitude λ, expressed in degrees, to rectangular 
+coordinates (x, y). It is widely used — for example, in nautical charts and in the maps that you print from the web. The projection, with the center of map set to 
+the prime meridian (0 degrees) and radius of Earth set to 1, is defined by the equations
+                                                                   x = λ and y = ln(1+sin φ / 1-sin φ) / 2
+
+Write a program called mercator.py that accepts latitude φ (float) and longitude λ (float) as command-line arguments and writes the corresponding x and y values to 
+standard output, separated by a space.
+
+Directions:
+- Accept two floats φ and λ as command-line arguments.
+- Compute and write the values of x and y, separated by a space.  Use math.radians() to convert degrees to radians.
+- Use math.log() for natural logarithm.
