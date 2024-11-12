@@ -1,0 +1,17 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+    As the name suggest, this project has the purpose to help students understand the functions of control flow better.
+    Using if, while, for-in range commands, I get to familiarize myself to python3 commands and this will be a big help for next projects
+    as a future reference.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   Professor Swami   Instructor   received help for gcd by suggesting adding a new variable while exchanging the variables.
+   Jongsoo           CS110 Grad   received help for gcd ( ϵ is epsilon) and ramanujan (understanding the concept)
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+        I enjoyed it!
