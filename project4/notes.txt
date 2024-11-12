@@ -1,0 +1,20 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   By this project and exercises, I was able to familiarize my self with the concept of defining functions. This also
+   help refresh my mind on the previous chapters of materials and is able to help me improve writing my code as I was
+   able to use the parts of python from different chapters at once.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+   Adnan Ali            TA          Help understanding project 4 and construct the codes needed.
+   Ahmet               Student      Work together for exercise 4
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

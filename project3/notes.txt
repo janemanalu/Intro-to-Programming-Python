@@ -1,0 +1,21 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+         With this project, I was able to understand the way of input and output,not only that, it is also about how to
+   use python more professionally. I learned more about the use of stdaudio and a big help eith making me more familiar
+   and comfortable to write code that has to read from standard input. Connecting a file to a program is another thing
+   that I learn from this project!
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Adnan Ali           TA          Help improving my code to be more efficient
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I really enjoyed doing it!
